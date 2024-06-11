@@ -1,6 +1,3 @@
-Codsoft Machine Learning Internship Repository
-
-Description:
 Welcome to the Codsoft Machine Learning Internship Repository! This repository showcases the culmination of my enriching internship experience at Codsoft, where I delved into the fascinating realm of machine learning. Throughout my internship journey, I had the privilege of working on three diverse and impactful tasks: Movie Genre Classification, Credit Card Fraud Detection, and Spam SMS Detection.
 
 Movie Genre Classification:
